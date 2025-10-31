@@ -1,0 +1,10 @@
+{
+  "botToken": "Bot_Token",
+  "clientId": "Bot_Client",
+  "clientSecret": "Bot_Secret",
+  "redirectUri": "http://Your_ip_:Port/auth/callback",
+  "logChannelId": "1433003350697312347",
+  "port": 3000,
+  "serverUrl": "http://Your_ip_:Port"  
+
+}

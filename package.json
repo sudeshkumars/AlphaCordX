@@ -1,0 +1,19 @@
+{
+  "name": "AlphaCordx",
+  "version": "1.0.0",
+  "description": "A next-generation Discord automation and link tracking framework",
+  "license": "ISC",
+  "author": "Dubblu/sudeshkumar",
+  "type": "commonjs",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.1",
+    "better-sqlite3": "^12.4.1",
+    "discord.js": "^14.24.1",
+    "express": "^5.1.0"
+  }
+}
