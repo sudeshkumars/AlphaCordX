@@ -64,7 +64,7 @@ npm start
 - Enable SSL using Let’s Encrypt or Cloudflare Flexible SSL.
 - Start the application using pm2 start server.js.
 
-     --  Slasyh command support 
+     --  Slasyh command support --
           /cn
           /help
 
