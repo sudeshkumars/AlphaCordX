@@ -47,7 +47,7 @@ It is designed for developers who want a scalable, secure, and easy-to-deploy Di
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/AlphaCordX.git
+git clone https://github.com/sudeshkumars/AlphaCordX.git
 cd AlphaCordX
 
 # Install dependencies
