@@ -33,7 +33,7 @@ It is designed for developers who want a scalable, secure, and easy-to-deploy Di
 
 ## Installation
 
-``config.josn``
+```config.josn
 {
   "botToken": "YOUR_DISCORD_BOT_TOKEN",
   "clientId": "YOUR_DISCORD_CLIENT_ID",
@@ -42,8 +42,8 @@ It is designed for developers who want a scalable, secure, and easy-to-deploy Di
   "serverUrl": "https://yourdomain.com",
   "port": 3000
 }
-
----
+```
+--
 
 ```bash
 # Clone the repository
