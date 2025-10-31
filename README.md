@@ -53,6 +53,10 @@ cd AlphaCordX
 # Install dependencies
 npm install
 
+# Optional
+npm install -g pm2
+npm start bot.js
+
 # Start the application
 npm start
 
@@ -62,7 +66,7 @@ npm start
 - Install Node.js, Nginx, and PM2.
 - Point your domain to the EC2 instance via Cloudflare.
 - Enable SSL using Let’s Encrypt or Cloudflare Flexible SSL.
-- Start the application using pm2 start server.js.
+- Start the application using pm2 start bot.js.
 
      --  Slasyh command support --
           /cn
